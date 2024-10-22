@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e42e9e88-6720-4588-8ea7-7ef0f06aaabf)
+![image](https://github.com/user-attachments/assets/ce7c482e-f0e0-45e3-bf15-39845520ada1)
 
 
 # [Basic Image Processing Report](#basic-image-processing-report)

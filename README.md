@@ -1,4 +1,5 @@
-Here’s the report with linkable headings for easy navigation:
+![image](https://github.com/user-attachments/assets/e42e9e88-6720-4588-8ea7-7ef0f06aaabf)
+
 
 # [Basic Image Processing Report](#basic-image-processing-report)
 
